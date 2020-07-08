@@ -2,6 +2,7 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "name": "Sabang",
       "type": "Feature",
       "properties": {},
       "geometry": {
